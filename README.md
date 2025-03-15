@@ -10,7 +10,7 @@ I; 'm a Novice Full Stack Developer who likes learning
 * ✉️  You can contact me at [rjalduong@gmail.com](mailto:rjalduong@gmail.com)
 * 🧠  I'm learning software engineering
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I'm my own suoerman. I might tell or not
+* ⚡  I'm my own superhero. I might tell or not
 
 ### Skills
 
@@ -30,8 +30,22 @@ I; 'm a Novice Full Stack Developer who likes learning
 
 <a href="http://www.github.com/raineensimon-sudo"><img src="https://github-readme-stats.vercel.app/api?username=raineensimon-sudo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="raineensimon-sudo's GitHub stats" /></a>
 
-<a href="http://www.github.com/raineensimon-sudo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raineensimon-sudo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/raineensimon-sudo">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raineensimon-sudo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
 
-<a href="http://www.github.com/raineensimon-sudo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=raineensimon-sudo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="center">
+  <a href="https://github.com/raineensimon-sudo">
+    <img src="https://streak-stats.demolab.com/?user=raineensimon-sudo&stroke=00ffee&background=0d1117&ring=00ffee&fire=00ffee&currStreakNum=ffffff&currStreakLabel=00ffee&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</p>
+<img src="https://streak-stats.demolab.com/?user=raineensimon-sudo&cache_break=123" />
 
-<a href="https://github.com/raineensimon-sudo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raineensimon-sudo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <a href="https://github.com/raineensimon-sudo">
+    <img src="https://github-readme-stats-hug.vercel.app/api/top-langs/?username=raineensimon-sudo&langs_count=8&layout=compact&title_color=00ffee&text_color=ffffff&icon_color=00ffee&bg_color=0d1117&hide_border=true&locale=en&custom_title=Most Used Languages" />
+  </a>
+</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raineensimon-sudo&cache_break=123" />
+
+
